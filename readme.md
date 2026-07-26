@@ -94,6 +94,6 @@ python consumer_clustering.py
 -   Automatic optimal cluster selection
 
 ## Author
-
+Subha S M
 BCA Mini Project Large-Scale Geographic Consumer Clustering &
 High-Dimensional Visualizations
